@@ -30,6 +30,7 @@ Goals:
 i had too many programs running and my computer was mad
 :::::
 
+hello
 ## AI *is* computer science
 
 
